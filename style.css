@@ -1,0 +1,32 @@
+@media(max-width: 992px) {
+  .container {
+    width: 700px;
+  }
+}
+
+body {
+color: darkgrey;
+font-size: 18px ;
+line-height: 1.6 ;
+font-weight: lighter ;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+  color: rgb(21, 21, 48);
+}
+
+.banner{
+  padding: 80px ;
+  background-image: url(https://images.unsplash.com/photo-1707822906795-9ca0376b2a60?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxNjIxNjU5NQ&ixlib=rb-4.0.3&q=80&w=1000);
+  background-size: cover;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  width: 350px ;
+}
+
+p {
+  text-align: justift ;
+}
